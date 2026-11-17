@@ -40,6 +40,21 @@ Designed and simulated an automatic fan controller using an Arduino Nano and TMP
   <img src="docs/assets/simulation-results.png" alt="Proteus simulation results for fan ON and fan OFF states" width="760">
 </p>
 
+## Project walkthrough
+
+Frames captured from the project demonstration show the Proteus implementation and the two control states.
+
+<table>
+  <tr>
+    <td align="center"><img src="docs/assets/demo/proteus-setup.jpg" alt="Proteus temperature-controlled fan schematic" width="380"><br><sub>System schematic in Proteus</sub></td>
+    <td align="center"><img src="docs/assets/demo/fan-on-simulation.jpg" alt="Proteus simulation showing the fan off state" width="380"><br><sub>Below threshold: fan OFF</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/assets/demo/serial-monitor-output.jpg" alt="Proteus serial monitor output for the temperature-controlled fan" width="380"><br><sub>Serial-monitor telemetry</sub></td>
+    <td align="center"><img src="docs/assets/demo/final-simulation.jpg" alt="Completed Proteus temperature-controlled fan project" width="380"><br><sub>Completed Proteus design</sub></td>
+  </tr>
+</table>
+
 ## System architecture
 
 ```mermaid

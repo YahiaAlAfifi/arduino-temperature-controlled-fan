@@ -3,6 +3,7 @@ build/
 .pio/
 .pioenvs/
 .piolibdeps/
+.media-tools/
 *.elf
 *.hex
 *.eep
