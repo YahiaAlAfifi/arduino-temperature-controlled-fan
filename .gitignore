@@ -1,0 +1,25 @@
+# Arduino and PlatformIO build output
+build/
+.pio/
+.pioenvs/
+.piolibdeps/
+*.elf
+*.hex
+*.eep
+*.bin
+
+# IDE settings
+.vscode/
+.idea/
+*.suo
+*.user
+*.userprefs
+
+# Proteus local state and backups
+*.pdsbak
+*.workspace
+*.pdsprj.*.workspace
+
+# Operating system files
+.DS_Store
+Thumbs.db

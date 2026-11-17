@@ -123,4 +123,3 @@ Open `hardware/proteus/Temperature-Controlled-Fan.pdsprj` in Proteus Design Suit
 ## Notes
 
 This is an academic prototype. Verify current ratings, relay contact ratings, transistor biasing, flyback protection, and supply isolation before connecting a real fan or any mains-powered load.
-
